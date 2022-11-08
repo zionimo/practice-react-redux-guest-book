@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/practice-react-redux-guest-book/static/css/main.073c9b0a.css",
-    "main.js": "/practice-react-redux-guest-book/static/js/main.bdb97195.js",
+    "main.js": "/practice-react-redux-guest-book/static/js/main.5872f26a.js",
     "static/js/787.ab3e54a0.chunk.js": "/practice-react-redux-guest-book/static/js/787.ab3e54a0.chunk.js",
     "index.html": "/practice-react-redux-guest-book/index.html",
     "main.073c9b0a.css.map": "/practice-react-redux-guest-book/static/css/main.073c9b0a.css.map",
-    "main.bdb97195.js.map": "/practice-react-redux-guest-book/static/js/main.bdb97195.js.map",
+    "main.5872f26a.js.map": "/practice-react-redux-guest-book/static/js/main.5872f26a.js.map",
     "787.ab3e54a0.chunk.js.map": "/practice-react-redux-guest-book/static/js/787.ab3e54a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bdb97195.js"
+    "static/js/main.5872f26a.js"
   ]
 }
